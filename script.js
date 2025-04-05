@@ -1,4 +1,4 @@
-const encrypt = (payload) => {
+onst encrypt = (payload) => {
   // encrypt the payload and return token
 }
 
